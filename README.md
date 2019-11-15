@@ -1,6 +1,7 @@
-# NovemberPeoplePredictor
+# November People Predictor
 Participants in DicoverEU Born in November Predictor
-#sources
+
+# Sources
 
 UNdata_Export_20191115_224402618.csv - http://data.un.org/Data.aspx?d=POP&f=tableCode%3A55#POP
 
