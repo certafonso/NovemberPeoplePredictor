@@ -1,5 +1,7 @@
 # November People Predictor
-Participants in DicoverEU Born in November Predictor
+Program to estimate the number of participants on the DiscoverEU 2019 born in november.
+
+Obviously it works for other months too if you put the right data.
 
 # Sources
 
